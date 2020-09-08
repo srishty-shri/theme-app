@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Config.js file contains the configuration of the basic web page and can be changed 
+to change the theme accordingly
+
 ## Available Scripts
 
 In the project directory, you can run:
